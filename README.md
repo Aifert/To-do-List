@@ -1,13 +1,26 @@
-<<<<<<< HEAD
 # To-do-List
 This repository contains a basic to do list 
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# UI (User Interface)
+<img width="681" alt="image" src="https://github.com/Aifert/To-do-List/assets/134128588/b2fae460-1ef3-46f6-9bff-034cc22dd918">
 
-Currently, two official plugins are available:
+# To do list
+<img width="718" alt="image" src="https://github.com/Aifert/To-do-List/assets/134128588/ebf2b337-cf7f-4095-b022-6b3ed3280546">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> b8acdfb (Todolist)
+# Check Marks
+
+<img width="718" alt="image" src="https://github.com/Aifert/To-do-List/assets/134128588/916648fc-da13-4155-ab65-10c58683f9a4">
+
+# Additional Features
+- Delete completed tasks with a click of a button
+- List is stored in local storage, so it presists when you refresh
+
+
+# Technology 
+- React
+- Javascript
+- JSX
+- HTML
+- CSS
+- JSON formatter
+- Local Storage 
