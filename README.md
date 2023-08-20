@@ -2,7 +2,8 @@
 This repository contains a basic to do list 
 
 # UI (User Interface)
-<img width="681" alt="image" src="https://github.com/Aifert/To-do-List/assets/134128588/b2fae460-1ef3-46f6-9bff-034cc22dd918">
+<img width="452" alt="image" src="https://github.com/Aifert/To-do-List/assets/134128588/668d509c-7b8e-40de-8ad1-e058d973357d">
+
 
 # To do list
 <img width="718" alt="image" src="https://github.com/Aifert/To-do-List/assets/134128588/ebf2b337-cf7f-4095-b022-6b3ed3280546">
